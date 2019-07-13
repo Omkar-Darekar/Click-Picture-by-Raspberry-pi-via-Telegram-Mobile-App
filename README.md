@@ -1,0 +1,2 @@
+# Click-Picture-by-Raspberry-pi-via-Telegram-Mobile-App
+In the 21st century, everybody is very bussy now. No one is having time to monitored there homes or children who playing inside of the home while parents is in the office or outside. For that situation we are designed a simple Telegram based bot and raspberry pi for clicking image so that when you are away from your loved place and you want to know whats going on there. Then you simply send message to your Telegram created BOT and it will revert you the live image where you situated your Raspberry pi Model. 
